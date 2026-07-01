@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ### AI Agent Product Engineer / FDE — 大模型应用落地
 
-📫 Reach me at **WeChat: `luo1616yao`**
-
 > Agent-Native 数据库 0→1 · MCP 工具设计 · RAG / 上下文工程 · Agent 评测
 
 ---
@@ -32,8 +30,7 @@ Here are some ideas to get you started:
 **Socials:**
 
 <a href="https://github.com/middlegold9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<!-- 如有 LinkedIn / 个人网站，取消下面注释并填链接 -->
-<!-- <a href="你的链接"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
+<a href="https://www.linkedin.com/in/robertzheyuwu2001/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <!-- <a href="你的个人网站"><img src="https://img.shields.io/badge/Portfolio-C8A040?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a> -->
 
 ---
