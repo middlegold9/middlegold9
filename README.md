@@ -1,14 +1,14 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my Github 🔱
 
 # Hello, I'm Middle ⌚
 
-**AI Agent Product Engineer / FDE**
+**AI Agent Engineer / FDE / Full Stack Engineer / Product Manager**
 
-> Agent-Native Database · MCP Protocol · RAG · Cloud-Native
+> AI Agent · Agent-Native Database · MCP Protocol · RAG · Cloud-Native
 
 ---
 
-### 🪎 Skills
+### 🪎 Skills 🪎
 
 <p>
   <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
@@ -39,7 +39,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=middlegold9&show_icons=true&title_color=D4AF37&icon_color=D4AF37&text_color=333&bg_color=FFF8E7" alt="GitHub Stats" width="420" />
 
 > *"Build things that last. Like gold."* 🏆
 
