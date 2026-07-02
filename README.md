@@ -1,33 +1,37 @@
 ## Hi there 👋
 
-<!--
-**okay16leobye/okay16leobye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Middle ⌚
 
-Here are some ideas to get you started:
+**AI Agent Product Engineer / FDE**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi ٩(｡•ᵕ•｡)۶, I'm 米兜 (Middle)
-
-### AI Agent Product Engineer / FDE — 大模型应用落地
-
-> Agent-Native 数据库 0→1 · MCP 工具设计 · RAG / 上下文工程 · Agent 评测
+> Agent-Native Database · MCP Protocol · RAG · Cloud-Native
 
 ---
 
-**Skills:**
+### 🪎 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,react,vue,nextjs,express,django,threejs,html,css,figma,blender,ae,pr,mysql,mongodb,git)](https://skillicons.dev)
+<p>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+  <a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://www.blender.org/" target="_blank"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" /></a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://skillicons.dev/icons?i=ae" alt="After Effects" /></a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+</p>
 
-**Socials:**
+### 🔗 Socials
 
 <a href="https://github.com/middlegold9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/robertzheyuwu2001/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -35,12 +39,7 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- （可选）放一张你喜欢的配图，把下面链接换成图片地址即可
-<img src="图片地址" width="360" alt="cover" />
--->
+<img src="https://github-readme-stats.vercel.app/api?username=middlegold9&show_icons=true&title_color=D4AF37&icon_color=D4AF37&text_color=333&bg_color=FFF8E7" alt="GitHub Stats" width="420" />
 
-### 📊 GitHub Stats
+> *"Build things that last. Like gold."* 🏆
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=middlegold9&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=middlegold9&layout=compact&theme=dark&hide_border=true)
