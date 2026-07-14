@@ -11,7 +11,7 @@
 <!-- Gold Slice Banner (no avatar) -->
 
 <a href="https://github.com/middlegold9">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=B8,86,0B:A6,7C,00:DAA5,20&height=130&section=header&text=Middle&fontSize=56&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=AI%20Agent%20Product%20Engineer%20%C2%B7%20FDE%20%C2%B7%20LLM%20Application&descAlignY=68&descSize=16" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFD700,50:DAA520,100:B8860B&height=130&section=header&text=Middle&fontSize=56&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=AI%20Agent%20Product%20Engineer%20%C2%B7%20FDE%20%C2%B7%20LLM%20Application&descAlignY=68&descSize=16" alt="header" />
 </a>
 
 <!-- Identity Badges -->
