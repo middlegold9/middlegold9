@@ -14,13 +14,7 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFD700,50:DAA520,100:B8860B&height=130&section=header&text=Middle&fontSize=56&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=AI%20Agent%20Product%20Engineer%20%C2%B7%20FDE%20%C2%B7%20LLM%20Application&descAlignY=68&descSize=16" alt="header" />
 </a>
 
-<!-- Identity Badges -->
-<img src="https://img.shields.io/badge/FDE-AI%20Agent%20Product%20Engineer-B8860B?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-Application-C5A572?style=for-the-badge&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/Agent--Native%20DB-0%E2%86%921-BF9535?style=for-the-badge&logo=database&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP%20%C2%B7%20RAG%20%C2%B7%20Eval-A67C00?style=for-the-badge&logo=code&logoColor=white" />
-
-<br/><br/>
+<br/>
 
 <!-- Profile Stats -->
 <img src="https://komarev.com/ghpvc/?username=middlegold9&label=Profile+Views&color=orange&style=flat-square" alt="profile views" />
@@ -36,7 +30,7 @@
   <tr>
     <td width="50%" valign="top">
 
-### 🤖 Agent Application
+### 👑 🤖 Agent Application
 
 Engineering practice around **productizing LLM capability** — making agents actually usable, measurable, and deliverable.
 
@@ -87,7 +81,7 @@ The **data substrate and connectors** built for agents — designed for agents, 
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" width="28" /> Connect
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" width="28" /> Connect With Me
 
 <div align="center">
 
