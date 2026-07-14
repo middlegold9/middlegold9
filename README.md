@@ -24,7 +24,7 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52c/512.gif" width="28" /> 👑Core Focus
+## 👑 Core Focus
 
 <table>
   <tr>
@@ -57,7 +57,7 @@ The **data substrate and connectors** built for agents — designed for agents, 
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="28" /> Technical Skills
+## 🛠️ Technical Skills
 
 <p align="center">
   <a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" alt="go" /></a>
@@ -75,13 +75,13 @@ The **data substrate and connectors** built for agents — designed for agents, 
   <a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" alt="linux" /></a>
   <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="figma" /></a>
   <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" /></a>
-  <a href="https://www.langchain.com"><img src="https://skillicons.dev/icons?i=langchain" alt="langchain" /></a>
-  <a href="https://dify.ai"><img src="https://skillicons.dev/icons?i=dify" alt="dify" /></a>
+  <a href="https://www.langchain.com"><img src="https://cdn.simpleicons.org/langchain" height="48" alt="langchain" /></a>
+  <a href="https://dify.ai"><img src="https://cdn.simpleicons.org/dify" height="48" alt="dify" /></a>
 </p>
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" width="28" /> Connect With Me
+## 📡 Connect With Me
 
 <div align="center">
 
