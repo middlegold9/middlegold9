@@ -24,13 +24,13 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52c/512.gif" width="28" /> Core Focus
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52c/512.gif" width="28" /> 👑Core Focus
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 👑 🤖 Agent Application
+### 🤖 Agent Application
 
 Engineering practice around **productizing LLM capability** — making agents actually usable, measurable, and deliverable.
 
