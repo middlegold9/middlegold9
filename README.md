@@ -14,17 +14,6 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=B8,86,0B:A6,7C,00:DAA5,20&height=130&section=header&text=Middle&fontSize=56&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=AI%20Agent%20Product%20Engineer%20%C2%B7%20FDE%20%C2%B7%20LLM%20Application&descAlignY=68&descSize=16" alt="header" />
 </a>
 
-<!-- Gold Text Lines (static, no typing) -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/?label=role%20%3A%20AI%20Agent%20Product%20Engineer%20%40%20FDE&color=B8860B&style=flat-square" alt="role" /><br/>
-<img src="https://img.shields.io/badge/?label=focus%20%3A%20Agent-Native%20DB%20-%20MCP%20Tools&color=A67C00&style=flat-square" alt="focus" /><br/>
-<img src="https://img.shields.io/badge/?label=mission%20%3A%20Ship%20reliable%20LLM-powered%20agents.&color=8B6914&style=flat-square" alt="mission" />
-
-</div>
-
-<br/>
-
 <!-- Identity Badges -->
 <img src="https://img.shields.io/badge/FDE-AI%20Agent%20Product%20Engineer-B8860B?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM-Application-C5A572?style=for-the-badge&logo=huggingface&logoColor=white" />
@@ -35,7 +24,6 @@
 
 <!-- Profile Stats -->
 <img src="https://komarev.com/ghpvc/?username=middlegold9&label=Profile+Views&color=orange&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/middlegold9?label=Followers&style=flat-square&color=blueviolet" alt="followers" />
 <img src="https://img.shields.io/github/stars/middlegold9?label=Stars&style=flat-square&color=yellow" alt="stars" />
 
 </div>
@@ -77,11 +65,25 @@ The **data substrate and connectors** built for agents — designed for agents, 
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="28" /> Technical Skills
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,java,python,typescript,javascript,react,vue,nextjs,django,html,css,docker,linux" alt="skills" />
-
-</div>
+<p align="center">
+  <a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" alt="go" /></a>
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="java" /></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="python" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" alt="typescript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="javascript" /></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="react" /></a>
+  <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue" alt="vue" /></a>
+  <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" /></a>
+  <a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django" alt="django" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="css" /></a>
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="docker" /></a>
+  <a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" alt="linux" /></a>
+  <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="figma" /></a>
+  <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" /></a>
+  <a href="https://www.langchain.com"><img src="https://skillicons.dev/icons?i=langchain" alt="langchain" /></a>
+  <a href="https://dify.ai"><img src="https://skillicons.dev/icons?i=dify" alt="dify" /></a>
+</p>
 
 ---
 
