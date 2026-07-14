@@ -1,0 +1,26 @@
+# 深圳房产 FDE 工作流系统 —— 容器编排
+# 适用：单台云服务器 / 本地一键启动
+#
+# 启动：  docker compose up -d --build
+# 停止：  docker compose down
+# 查看日志：docker compose logs -f
+
+services:
+  backend:
+    build: ./backend
+    environment:
+      # 首次部署演示数据设为 true；客户正式使用前改为 false
+      - SEED_DATA=${SEED_DATA:-false}
+      - DB_PATH=/app/data/data.db
+    volumes:
+      - ./data:/app/data           # SQLite 持久化到宿主机
+    restart: unless-stopped
+    # 后端不直接对外暴露端口，仅供前端容器内网访问
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "${WEB_PORT:-8080}:80"      # 浏览器访问 http://服务器IP:8080
+    depends_on:
+      - backend
+    restart: unless-stopped

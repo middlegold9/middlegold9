@@ -1,0 +1,29 @@
+# 公网 HTTPS 部署方案（叠加在 docker-compose.yml 之上）
+#
+# 用法：在已有 docker-compose.yml 基础上叠加本文件，由 Caddy 自动申请并续期 HTTPS 证书。
+#   1. 把 Caddyfile.example 复制为 Caddyfile，填入你的域名
+#   2. 启动：docker compose -f docker-compose.yml -f docker-compose.https.yml up -d --build
+#
+# 前置条件：你已有一个域名，并把它的 A 记录解析到这台服务器的公网 IP。
+
+services:
+  # 关闭 frontend 的直接端口暴露，改由 Caddy 统一入口
+  frontend:
+    ports: []
+
+  caddy:
+    image: caddy:2-alpine
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - frontend
+    restart: unless-stopped
+
+volumes:
+  caddy_data:
+  caddy_config:
