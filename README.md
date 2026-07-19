@@ -8,11 +8,8 @@
 <div align="center">
 
 <!-- 金色标题（纯文本，无背景图片） -->
-<h1 style="font-size: 60px; font-weight: 900; margin: 0.2em 0 0.1em;
-           background: linear-gradient(135deg, #FFD700 0%, #DAA520 50%, #B8860B 100%);
-           -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-           background-clip: text; letter-spacing: 2px;">
-  Hi! I'm MIDDLE
+<h1 style="color: #FFD700; font-size: 90px; font-weight: 999; margin: 0.2em 0 0.1em; letter-spacing: 2px;">
+  👋 Hi! I'm MIDDLE 🏘️
 </h1>
 
 <h3 style="font-weight: 400; margin-top: -0.2em; color: #d4c9a0;">
