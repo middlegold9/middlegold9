@@ -8,11 +8,11 @@
 <div align="center">
 
 <!-- 金色标题（纯文本，无背景图片） -->
-<h1 style="font-size: 52px; font-weight: 700; margin: 0.2em 0 0.1em;
+<h1 style="font-size: 60px; font-weight: 900; margin: 0.2em 0 0.1em;
            background: linear-gradient(135deg, #FFD700 0%, #DAA520 50%, #B8860B 100%);
            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-           background-clip: text;">
-  Middle
+           background-clip: text; letter-spacing: 2px;">
+  Hi! I'm MIDDLE
 </h1>
 
 <h3 style="font-weight: 400; margin-top: -0.2em; color: #d4c9a0;">
@@ -20,15 +20,15 @@
 </h3>
 
 <!-- 统计徽章（保留，颜色改为金色系） -->
-<img src="https://komarev.com/ghpvc/?username=middlegold9&label=Profile+Views&color=gold&style=flat-square" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=middlegold9&label=Profile+Views&style=flat-square" alt="views" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/middlegold9?label=Stars&style=flat-square&color=gold" alt="stars" />
+<img src="https://img.shields.io/github/stars/middlegold9?label=Stars&style=flat-square" alt="stars" />
 
 </div>
 
 ---
 
-## 👑 Core Focus
+## 👑 Core Focus 🔱
 
 <table>
   <tr>
