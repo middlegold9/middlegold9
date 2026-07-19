@@ -1,24 +1,28 @@
-<!-- =========================================================
-  GitHub Profile README (English · Gold Theme)
-  Repo name must equal username: middlegold9
-  Public repo, filename: README.md
-  Visual components inspired by ZhangJinHaHaHa/ZhangJinHaHaHa
-  Content: middlegold9 — AI Agent Product Engineer / FDE
-========================================================= -->
+<!--
+  GitHub Profile README — middlegold9
+  AI Agent Product Engineer · Full‑Stack Developer
+  Repo: middlegold9/middlegold9 (public)
+  Gold theme, no banner image, only Core Focus section
+-->
 
 <div align="center">
 
-<!-- Gold Slice Banner (no avatar) -->
+<!-- 金色标题（纯文本，无背景图片） -->
+<h1 style="font-size: 52px; font-weight: 700; margin: 0.2em 0 0.1em;
+           background: linear-gradient(135deg, #FFD700 0%, #DAA520 50%, #B8860B 100%);
+           -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+           background-clip: text;">
+  Middle
+</h1>
 
-<a href="https://github.com/middlegold9">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFD700,50:DAA520,100:B8860B&height=130&section=header&text=Middle&fontSize=56&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=AI%20Agent%20Product%20Engineer%20%C2%B7%20FDE%20%C2%B7%20LLM%20Application&descAlignY=68&descSize=16" alt="header" />
-</a>
+<h3 style="font-weight: 400; margin-top: -0.2em; color: #d4c9a0;">
+  AI Agent Product Engineer · Full‑Stack Developer · LLM Application
+</h3>
 
-<br/>
-
-<!-- Profile Stats -->
-<img src="https://komarev.com/ghpvc/?username=middlegold9&label=Profile+Views&color=orange&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/stars/middlegold9?label=Stars&style=flat-square&color=yellow" alt="stars" />
+<!-- 统计徽章（保留，颜色改为金色系） -->
+<img src="https://komarev.com/ghpvc/?username=middlegold9&label=Profile+Views&color=gold&style=flat-square" alt="views" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/middlegold9?label=Stars&style=flat-square&color=gold" alt="stars" />
 
 </div>
 
@@ -28,28 +32,30 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-right: 20px;">
 
-### 🤖 Agent Application
+### AI Agent Engineering
 
-Engineering practice around **productizing LLM capability** — making agents actually usable, measurable, and deliverable.
+Productizing LLM capabilities into **reliable, observable, and controllable agents** – from prototype to production.
 
-- MCP tool design: let models call external systems safely & controllably
-- RAG / context engineering: wire knowledge into the reasoning loop
-- Agent evaluation: measure agent behavior with quantifiable metrics
-- Multi-agent orchestration & collaboration
+- **Model Context Protocol (MCP)** – tool design for safe, auditable external calls
+- **Retrieval‑Augmented Generation (RAG)** – context engineering and knowledge wiring into reasoning loops
+- **Agent Evaluation** – quantifiable metrics (accuracy, latency, tool usage, cost) with continuous benchmarking
+- **Multi‑agent Orchestration** – collaboration, handoff, and consensus strategies
+- **Prompt Engineering & Fine‑tuning** – domain‑specific adaptation for deterministic outputs
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-left: 20px;">
 
-### 🗄️ Database & Tooling
+### Full‑Stack & Agent‑Native Tooling
 
-The **data substrate and connectors** built for agents — designed for agents, not for human queries.
+The **data substrate and connectors** built for agents – designed for machine reasoning, not just human queries.
 
-- Agent-Native database: 0→1 storage & retrieval built for agents
-- Workflow & context management
-- Connectors between models and external systems
-- Productized agent capability packaging
+- **End‑to‑end Full‑Stack** – React, Next.js, Node.js, FastAPI, Go for agent‑powered products
+- **Agent‑Native Database** – vector + relational storage (Pinecone, Weaviate, PostgreSQL) for memory and retrieval
+- **Workflow & Context Management** – stateful, long‑running agent sessions and DAG‑based execution
+- **Secure Connectors** – API gateways and middleware between LLMs and external systems
+- **Deployment & Scaling** – containerization (Docker/K8s) and cloud orchestration (AWS/GCP) for agentic services
 
     </td>
   </tr>
